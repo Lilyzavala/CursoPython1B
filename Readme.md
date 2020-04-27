@@ -1,4 +1,4 @@
-# Bienvenido al curso Básico de R
+# Bienvenido al curso Básico de Python
 
 ### Objetivo del curso:
 Fortalecer la lógica de programación preparando al alumno para cursos especializados en python o en cualquier otro lenguaje
@@ -20,7 +20,7 @@ Software:
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Git](https://git-scm.com/downloads)
 * [GITHUB](https://github.com/)
-* Correo de Gmail
+* Correo de gmail
 
 Habilidades:
 * Ganas de aprender.
