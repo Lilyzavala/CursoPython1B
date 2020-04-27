@@ -15,6 +15,18 @@ Lunes 27 de Abril de 2020
 ### Fin del curso:
 Lunes 18 de Mayo de 2020
 
+### Requisitos:
+Software:
+* [Anaconda](https://www.anaconda.com/products/individual)
+* [Git](https://git-scm.com/downloads)
+* [GITHUB](https://github.com/)
+
+Habilidades:
+* Ganas de aprender.
+* Curiosidad, si algo no queda claro:  
+¡PREGUNTA!
+
+
 ### Canal de comunicación oficial
 https://join.slack.com/t/curso-pythonworkspace/shared_invite/zt-durh05ph-PwPcEcBhasA~eXSipbJQ7A
 
