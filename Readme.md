@@ -43,7 +43,7 @@ Al comenzar el curso se tiene que depositar el 50% del valor del curso según co
 El 50% restante se hará a la mitad del curso, en caso de que no haya sido lo que esperado puedes no pagarlo y seguir entrando al curso
 
 #### Cómo pagar:
-Realizar un deposti a:  
+Realizar un depósto a:  
 
 Nombre: TELLEZ CORTES ARTURO  
 Banco: Scotiabank  
