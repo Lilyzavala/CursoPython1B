@@ -20,6 +20,7 @@ Software:
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Git](https://git-scm.com/downloads)
 * [GITHUB](https://github.com/)
+* Correo de Gmail
 
 Habilidades:
 * Ganas de aprender.
